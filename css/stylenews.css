@@ -1,0 +1,13 @@
+nav.menu-nav-news ul li.btn-news{
+    display: inline-block;
+    list-style-type: none;
+}
+nav.menu-nav-news ul li.btn-news a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: black;
+    padding: 10px;
+}
+nav.menu-nav-news ul li.btn-news:hover a {
+    background-color: rgb(61, 61, 61);
+}

@@ -1,0 +1,25 @@
+p.introduction{
+    font-size: 20px;
+}
+body{
+    background: url(https://www.sonexaircraft.com/wp-content/uploads/2018/01/Onex_painted_1114.jpg) no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-size: 50px;
+    padding-left: 300px;
+}  
+nav.menu-nav ul li.btn{
+    display: inline-block;
+    list-style-type: none;
+    padding-left: 40px;
+}
+nav.menu-nav ul li.btn a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: black;
+    padding: 10px;
+}
+nav.menu-nav ul li.btn:hover a {
+    background-color: rgb(61, 61, 61);
+}
